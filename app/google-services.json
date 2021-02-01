@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482377989455",
+    "project_id": "actividadmultiautenticacionec3",
+    "storage_bucket": "actividadmultiautenticacionec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482377989455:android:9c7c786866145aeced993a",
+        "android_client_info": {
+          "package_name": "com.example.actividadmultiautenticacionec3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482377989455-6agsj5s9b81kidq1ijaans6gg49dhmrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.actividadmultiautenticacionec3",
+            "certificate_hash": "a88c388abf981fe9bdb1b685ea9335affc41f8e3"
+          }
+        },
+        {
+          "client_id": "482377989455-hi3a9ruju96jd8c1hshaomdc4fchbmhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9uxysj2X9Kp0VJ_Z2BIsuXgHInBAjbw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482377989455-hi3a9ruju96jd8c1hshaomdc4fchbmhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
